@@ -1,0 +1,4 @@
+Sport;Quale è lo sport più praticato al mondo?;Quanti giocatori ci sono in una squadra di pallavolo?;Quanto dura una partita di basket NBA?;In che anno si sono svolte le prime Olimpiadi moderne;Quale è il colpo iniziale nel tennis?;
+HarryPotter;Che scuola frequenta Harry?;Quale è il patronus di Harry?;Come si chiama il serpente di Voldemort?;Quanti libri ci sono nella saga?;Quale casa ha come simbolo un tasso?;
+Tecnologia;Per cosa sta WWW?;Per cosa sta CPU?;Quale è il sistema operativo più utilizzato al mondo?;Che cosa significa l'acronimo Wi-Fi?;In che anno è stato lanciato il primo iPhone?;
+Animali;Qual è l'animale terrestre più veloce?;Qual è il mammifero più grande del mondo?;Quante zampe ha un ragno?;Dove vivono i pinguini?;Qual è l'animale simbolo dell'Australia?;

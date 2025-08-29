@@ -1,0 +1,4 @@
+Sport;Calcio;6;48;1869;Servizio;
+HarryPotter;Hogwarts;Cervo;Nagini;7;Tassorosso;
+Tecnologia;World Wide Web;Central Processing Unit;Windows;Wireless Fidelity;2007;
+Animali;Ghepardo;Balenottera azzurra;8;Antartide;Canguro;
